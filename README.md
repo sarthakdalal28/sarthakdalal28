@@ -9,7 +9,6 @@
 
 - 📄 Know about my experiences [https://sarthakdalal28.github.io/experience/](https://sarthakdalal28.github.io/experience/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
